@@ -11,4 +11,4 @@ INSERT INTO `frameworks` (`id`, `framework`, `version`)
 VALUES (NULL, 'Symfony', '2.8'),
     (NULL, 'Symfony', '1.3'),
     (NULL, 'Jquery', '1.6'),
-    (NULL, 'Jquery', '2.10')
+    (NULL, 'Jquery', '2.1')
